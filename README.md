@@ -1,6 +1,6 @@
-#Capstone Project: Students Travel Analysis
+# Capstone Project: Students Travel Analysis
 
-##Training Program
+## Training Program
 Smarter Philippines through Data Analytics, R&D, Training, and Adoption (SPARTA)
 
 ## Project Overview
